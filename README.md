@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shali! 👋
 
-<!--
-**Shali-Faithlin/Shali-Faithlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | AI/ML & GenAI Enthusiast
 
-Here are some ideas to get you started:
+I'm currently learning and exploring Artificial Intelligence, Generative AI, and AI Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+- Python Programming
+- Artificial Intelligence
+- Generative AI
+- Model Context Protocol (MCP)
+
+### Currently Learning
+- Python Automation
+- APIs and JSON
+- n8n Workflow Automation
+- AI Agents and MCP Development
+
+### My Goals
+- Build practical AI-powered applications.
+- Develop automation solutions for real-world problems.
+- Grow as an AI Automation Developer.
+
+### Connect With Me
+- LinkedIn: www.linkedin.com/in/shali-faithlin-125a52328
