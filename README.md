@@ -1,4 +1,4 @@
-# Hi, I'm Shali! 👋
+# Hi, I'm Shali! 
 
 ### B.Tech Information Technology Student | AI/ML & GenAI Enthusiast
 
